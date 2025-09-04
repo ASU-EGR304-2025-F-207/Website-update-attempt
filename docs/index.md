@@ -26,12 +26,7 @@ Professor Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-<<<<<<< HEAD
-| Gael C                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io) |
-| Name #                | link |
-=======
-| Gael C                | [JohnDoe.GitHub](https://github.com/Ludael02) |
-| Hattie Lee                | [link](https://jhlee59.github.io/) |
->>>>>>> 598264f44630115e28a4c7f50c65d286be8ff340
+| Gael Chavez                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io/) |
+| Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
