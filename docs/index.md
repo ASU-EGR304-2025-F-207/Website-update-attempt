@@ -26,7 +26,7 @@ Professor Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Gael C                | [JohnDoe.GitHub](https://github.com/Ludael02) |
+| Gael C                | [GaelChavez.GitHub](https://ludael02.github.io/gael_chavez.github.io) |
 | Name #                | link |
 | Name #3                | link |
 | Name #4                | link |
