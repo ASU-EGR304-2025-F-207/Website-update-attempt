@@ -84,12 +84,17 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+1. Gael - Meeting leader
+2. Alessandro - Meting recorder
+3. Hattie - Asignment leader
+4. Riley - Project monitor
+
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+We will take 5 minutes after we finish class to ask if theres any comments and/or suggestion
 
 
 ## Signatures
 
-Need to add content!!
+Gael Chavez
 
