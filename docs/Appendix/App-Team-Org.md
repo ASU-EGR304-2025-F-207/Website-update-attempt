@@ -9,9 +9,9 @@ tags:
 
 1. Gain experience in using and building electrical systems
 2. Have a product that can be displayed in a portfolio
-3. Expand our repertoir of skills
-4. Gain more team working experience
-5. Learn more about github and systems
+3. Expand our repertoire of skills
+4. Gain more teamwork experience
+5. Learn more about GitHub and systems
 
 
 
@@ -28,11 +28,11 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Text
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Text.
  
 ## Communication Procedures
 
-1. Each class we will meet in person to discuss changes and activities for that day and/or week. The default method of remote communication is text for any needs, help, comments, etc.
+1. Each class, we will meet in person to discuss changes and activities for that day and/or week. The default method of remote communication is text for any needs, help, comments, etc.
 
 2. If direct communication with the professor is required, the entire group will be present. If only one person needs to speak to the professor, Gael Chavez will be the group's spokesperson and responsible for informing them of the discussion.
 
@@ -69,9 +69,9 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-    Text and during class
+    The meeting leader will send out text reminders to the group chat.
 2. How will your team go about changing or adding meeting times?
-    We will take whats on this page as a base and add any details or exceptions in text
+    We will take what's on this page as a base and add any details or exceptions in text.
 3. What's the preferred format for meetings (face-to-face or virtually)?
     We will attempt face-to-face
 4. Are there any other procedures that your team feels are necessary?
@@ -90,7 +90,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 1. Gael - Meeting leader
 2. Alessandro - Meeting recorder
-3. Hattie - Asignment leader
+3. Hattie - Assignment leader
 4. Riley - Project monitor
 
 ## Team Coordination & Accountability
@@ -110,4 +110,5 @@ Any minor conflicts that can be solved through typical communication channels sh
 
 Gael Chavez
 Riley Franco
+Hattie Lee
 
