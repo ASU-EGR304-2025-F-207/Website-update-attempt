@@ -68,10 +68,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. What method will you use to remind yourselves of meetings (a shared calendar?) Text and during class
+1. How will your team go about changing or adding meeting times? we will take whats on this page as a base and add any details or exceptions in text
+1. What's the preferred format for meetings (face-to-face or virtually)? face-to-face
+1. Are there any other procedures that your team feels are necessary? create a discord as a secondary communcation option (optional)
 
 ## Roles & Responsibilities
 
