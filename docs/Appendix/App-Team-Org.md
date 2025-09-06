@@ -44,19 +44,18 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | H | - | - | - | - |
-| 11:00 AM | - | - | H | - | - | - | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - |  | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | - | H | - | - | - | - | - |
-| 4:00 PM | H | H | R | - | - | - | - |
-| 5:00 PM | H | HRAG | RAG | - | - | - | - |
-| 6:00 PM | HAG | HRAG | RAG | - | - | - | - |
-| 7:00 PM | HAG | HAG | RAG | - | - | - | - |
-| 8:00 PM | HAG | HAG | AG | - | - | - | - |
-| 9:00 PM | HAG | HAG | AG | - | - | - | - |
-
+| 10:00 AM | - | - | H | - | H | - | - |
+| 11:00 AM | - | - | H | HR | H | H | - |
+| 12:00 PM | - | - | - | HR | - | HR | - |
+| 1:00 PM | - |  | - | - | - | HR | - |
+| 2:00 PM | - | - | - | - |  | HR | - |
+| 3:00 PM | - | H | - | H | - | HR | - |
+| 4:00 PM | H | H | R | H | - | HR | - |
+| 5:00 PM | H | HRAG | RAG | HRAG | AG | HRG- | - |
+| 6:00 PM | HAG | HRAG | RAG | HRAG | AG | HRG | - |
+| 7:00 PM | HAG | HAG | RAG | HAG | AG | HRAG | - |
+| 8:00 PM | HAG | HAG | AG | HAG | AG | HAG | - |
+| 9:00 PM | HAG | HAG | AG | HAG | AG | HA | - |
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
