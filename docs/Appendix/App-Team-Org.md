@@ -61,10 +61,10 @@ _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Hattie | H |
+| Riley | R |
+| Gael | G |
+| Alessandro | A |
 
 
 ## Meeting Coordination
