@@ -21,7 +21,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Gael |  Text | email | My Space |
+|Gael |  Text | Email | My Space |
 |Alessandro |  Text | Discord | Skype |
 |Hattie |  Text | Discord | Instagram |
 |Riley |  Text | Discord | Email |
@@ -68,10 +68,14 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?) Text and during class
-1. How will your team go about changing or adding meeting times? we will take whats on this page as a base and add any details or exceptions in text
-1. What's the preferred format for meetings (face-to-face or virtually)? face-to-face
-1. Are there any other procedures that your team feels are necessary? create a discord as a secondary communcation option (optional)
+1. What method will you use to remind yourselves of meetings (a shared calendar?)
+    Text and during class
+2. How will your team go about changing or adding meeting times?
+    We will take whats on this page as a base and add any details or exceptions in text
+3. What's the preferred format for meetings (face-to-face or virtually)?
+    We will attempt face-to-face
+4. Are there any other procedures that your team feels are necessary?
+    Create a discord as a secondary communcation option
 
 ## Roles & Responsibilities
 
@@ -85,16 +89,25 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 1. Gael - Meeting leader
-2. Alessandro - Meting recorder
+2. Alessandro - Meeting recorder
 3. Hattie - Asignment leader
 4. Riley - Project monitor
 
+## Team Coordination & Accountability
+
+1. We will ensure that each team member has "signed off" on each assignment by sending a message in the group text asking if everyone accepts with the state of the assignment. If everyone agrees or the assignment is within 10 minutes of being due with no objections, the assignment will be considered "signed off" by everyone. Hattie will be turning in the assignment once it is signed off by everyone.
+2. As our team works on each assignment, members will speak up if they are not capable of performing any tasks for that assignment, either from lack of skill or knowledge. If no members are able to confidently perform a task, one member will be selected to work on that section, with the others covering more work to allow that member to learn the neccessary skills for that task.
+3. Feedback from the design review will be discussed by the team when we meet after the feedback is given. It is the responsibility of each member to act on that feedback, however, other members should speak up and point out if feedback is being ignored.
+4. If a team member is underperforming, the team will discuss with them to ascertain why this is occuring, and the team will do as neccessary to accommodate and help the team member. The underperfoming team member may be asked to take slightly more work in future assignments to balance out the work load over the course of the semester. If a team member does not improve after two or more assignments or two weeks, whichever is longer, the other team members may seperately discuss giving that member of the team a pink slip. If two of the three other members agree, a pink slip will be given to the underperfoming team member.
+
+
 ## Conflict Recognition & Resolution
 
-We will take 5 minutes after we finish class to ask if theres any comments and/or suggestion
+Any minor conflicts that can be solved through typical communication channels should be handled through text or face to face conversations. Any team member in conflict with another will be able to ask for 5 minutes after class to dicuss the conflict with the team. A conflict can be escalated to the instructor if the conflict has not been resolved for a period of 2 weeks or two assignments, whichever is longer, or if the conflict is preventing the completion of an assignment or at least two team members believe that the quality of an assignment will be compromised by the conflict. 
 
 
 ## Signatures
 
 Gael Chavez
+Riley Franco
 
