@@ -7,6 +7,12 @@ tags:
 
 ## Team Goals
 
+1. Gain experience in using and building electrical systems
+2. Have a product that can be displayed in a portfolio
+3. Expand our repertoir of skills
+4. Gain more team working experience
+5. Learn more about github and systems
+
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
 ## Communication Channels
@@ -15,10 +21,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Gael |  Text | email | My Space |
+|Alessandro |  Text | Discord | Skype |
+|Hattie |  Text | Discord | Instagram |
+|Riley |  Text | Discord | Email |
 
 ### Main Method for Group Communication
 
