@@ -13,7 +13,7 @@ tags:
 4. Gain more team working experience
 5. Learn more about github and systems
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+
 
 ## Communication Channels
 
@@ -28,12 +28,13 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Text
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. Each class we will meet in person to discuss changes and activities for that day and/or week. The default method of remote communication is text for any needs, help, comments, etc.
+
+2. If direct communication with the professor is required, the entire group will be present. If only one person needs to speak to the professor, Gael Chavez will be the group's spokesperson and responsible for informing them of the discussion.
 
 ## Meeting Schedule
 
