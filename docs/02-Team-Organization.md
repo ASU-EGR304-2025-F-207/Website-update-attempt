@@ -11,6 +11,4 @@ Our team is an aspiring group of student engineers committed to learning and app
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
-
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+Our mission is to help common households be more efficient with their use of public resources in daily life. 
