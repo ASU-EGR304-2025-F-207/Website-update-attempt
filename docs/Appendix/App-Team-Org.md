@@ -34,7 +34,7 @@ Based on the information provided on in the "Team Member Communication Modes," t
 
 1. Each class, we will meet in person to discuss changes and activities for that day and/or week. The default method of remote communication is text for any needs, help, comments, etc.
 
-2. If direct communication with the professor is required, the entire group will be present. If only one person needs to speak to the professor, Gael Chavez will be the group's spokesperson and responsible for informing them of the discussion.
+2. If direct communication with the professor is required, the entire group will be present. If only one person needs to speak to the professor, The Meeting leader will be the group's spokesperson and responsible for informing the other team members of the discussion.
 
 ## Meeting Schedule
 
@@ -65,16 +65,14 @@ _**Table Legend for Appendix Table 2**_
 | Gael | G |
 | Alessandro | A |
 
-5 pm - 6 pm on Mondays and Wednesdays is our team's shared availability outside class time. 
-
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
     The meeting leader will send out text reminders to the group chat.
 2. How will your team go about changing or adding meeting times?
-    We will take what's on this page as a base and add any details or exceptions in text.
+    We will take what's on this page as a base and add any details or exceptions in text. 5 pm - 6 pm on Mondays and Wednesdays is our team's shared availability outside class time. 
 3. What's the preferred format for meetings (face-to-face or virtually)?
-    We will attempt face-to-face
+    We will attempt face-to-face, but may change to virtual depending on the contents of the meetings and the workload on the team members.
 4. Are there any other procedures that your team feels are necessary?
     Create a discord as a secondary communcation option
 
@@ -93,6 +91,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 2. Alessandro - Meeting recorder
 3. Hattie - Assignment leader
 4. Riley - Project monitor
+
+We will rotate roles "up" every 3 weeks with the current Meeting leader becoming the Project monitor, the Project monitor becoming Assignment leader, the Assignment leader becoming the Meeting recorder, and the Meeting recorder becoming the Meeting leader. If a team member is struggling to meet their responsibilities in their role, they should ask the team for help, and anyone who is able to should provide assistance to that team member, and, if necessary, exchange some responsibilities if both team members agree to it. We will track activities and milestones through text communication, however, if that becomes infeasible, a google calendar will be used to track occasions. Technical roles will be given to team members with the most experience and ability to perform the task. If anyone volunteers to work on a specific technical task, and are capable of doing so, they may work on it. Other tasks will be given out based on confidence with the technical tasks or, potentially, on perceived difficulty to balance out the work.
 
 ## Team Coordination & Accountability
 
