@@ -8,18 +8,12 @@ title: User Needs and Benchmarking
    </td>
    <td>Reviews
    </td>
-   <td>E or L
-   </td>
    <td>User Needs
    </td>
   </tr>
   <tr>
    <td>Automatic Trashcan
 <h4>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 </h4>
 
@@ -43,96 +37,52 @@ The product description states 13 gallon however, the actual size is much smalle
 <p>
 NOT WORTH THE PRICE. I never ordered a trash bin before so I wasn't entirely sure what to expect. I assumed that a 13 gallon was the average size for kitchen trash bins but this just seems extremely small to me. I made this purchase knowing that it was motion sensing and odorless technology so I expected it to either be battery operated or plug - in. It is plug in... But you have to purchase the AC adapter separately as well as everything else that makes it "techy". So for the price I paid I just received a regular trash bin that I have to manually open and deal with smells unless I buy the rest of the kit. I'll be returning this as soon as possible and I will purchase a regular trash bin instead for much cheaper. Lesson learned.
    </td>
-   <td>L
+   <td>The product is easy to recharge(L)
 <p>
-E
+The Product uses D Batteries(E)
 <p>
-E
-<p>
-E
-<p>
-E
-<p>
-E
-<p>
-E
-<p>
-E
-<p>
-L
-<p>
-E
-<p>
-L
-<p>
-E
-<p>
-E
-<p>
-L
-<p>
-E
-<p>
-E
-<p>
-E
-<p>
-E
-<p>
-L
-<p>
-L
-   </td>
-   <td>The product is easy to recharge
-<p>
-The Product uses D Batteries
-<p>
-Product is not damaged
+Product is not damaged(E)
 <p>
 Product is sturdy
 <p>
-Product is aesthetically pleasing
+Product is aesthetically pleasing(E)
 <p>
 Product is automatic
 <p>
-Product does not take up much space
+Product does not take up much space(E)
 <p>
-Product deodors itself
+Product deodors itself(E)
 <p>
-Product should have a long lifespan, up to 10 years. 
+Product should have a long lifespan, up to 10 years.(E) 
 <p>
-Product should minimize manual steps
+Product should minimize manual steps(L)
 <p>
-Product should allow easy replacement of contents
+Product should allow easy replacement of contents(E)
 <p>
-Product should last longer than a few months
+Product should last longer than a few months(L)
 <p>
-Product should not stain easily
+Product should not stain easily(E)
 <p>
-The product’s sensors should only go off when desired
+The product’s sensors should only go off when desired(E)
 <p>
-Product should have intuitive design.
+Product should have intuitive design.(L)
 <p>
-The product should be clear in its sizing
+The product should be clear in its sizing(E)
 <p>
-The product should be easy to assemble for the customer
+The product should be easy to assemble for the customer(E)
 <p>
-The product should not be too small to be used
+The product should not be too small to be used(E)
 <p>
-The product should be able to easily be powered
+The product should be able to easily be powered(E)
 <p>
-The product should be battery operated or plug into a power source.
+The product should be battery operated or plug into a power source.(L)
 <p>
-The product should be affordable
+The product should be affordable(L)
    </td>
   </tr>
   <tr>
    <td>self tying trash can
 <p>
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -157,37 +107,23 @@ Negative:
 <p>
 “Smaller in size than I expected. Also the material feels very flimsy and bendable.”
    </td>
-   <td>E
+   <td>The product is too small.(E)
 <p>
-E
-<p>
-L
-<p>
-E
-<p>
-E
-<p>
-L
-<p>
-E
-   </td>
-   <td>The product is too small.
-<p>
-The product has low capacity.
+The product has low capacity.(E)
 <p>
 Good for bathroom use. 
 <p>
-Good in pairs.
+Good in pairs.(L)
 <p>
-Good desk product.
+Good desk product.(E)
 <p>
-The top doesn’t fit well together.
+The top doesn’t fit well together.(E)
 <p>
-The trash can is flimsy.
+The trash can is flimsy.(E)
 <p>
-Warping
+Warping(L)
 <p>
-Small, flimsy and bendable
+Small, flimsy and bendable(E)
    </td>
   </tr>
   <tr>
@@ -195,10 +131,6 @@ Small, flimsy and bendable
    </td>
    <td><a href="https://www.amazon.com/Airdeer-Automatic-Self-Changing-Touchless-Bathroom/dp/B0BYZ8G8BZ/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.WmtZO9cZvg4yCgEJZ0FwxxBTpZSFRp1T0stkpNcZDqaRMooWglkZeFMCqsZ7_heDJ8nH0Rcfu5f4NaZ-81pBZ26V9Qbn8DpGYehQ1bCo1kXfeRZNWIlqLXUcpotISo4zR6EBk-TWUegU0A6dVS4HOyMfsiXnC84NmmN4CuQtUJbCTXv6sDznL16RGfYhY2o8K0UXhEGxZJtsUL5pNBXlK846hFKxgOlVYSYyqdDeexcgIbh5qJDuVwx0lpwhbi_x4GNry-Du2DVgeEb4MfE_GWyC-oWWMCcl2cM2trtzlWA.fxBlTmP6Xl9LBAQCPrL0HWXSSOj5f-JoIBIjzuzXFJc&dib_tag=se&hvadid=695025966149&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=12777337705853508715--&hvqmt=b&hvrand=12777337705853508715&hvtargid=kwd-892449760771&hydadcr=15949_13650323&keywords=self%2Bbagging%2Btrash%2Bcan&mcid=cd1de450aea0366988fb473d191149a2&qid=1757993256&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">Amazon: Automatic Trash Can, 4 Gallon Self Sealing and Self-Changing Smart Trash Can, Motion Sensor, Touchless Garbage can with lid for Kitchen Bathroom Bedroom, 6 Refill Rings(A1, Black Line)</a>  
 <p>
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -249,81 +181,43 @@ Additionally, the lid doesn't always close securely, leading to unpleasant odors
 <p>
 The refill rings are supposed to make things easier, but they are overpriced and don't last nearly as long as advertised. I find myself constantly needing to replace them, adding to the overall cost and hassle.
    </td>
-   <td>E
+   <td>The product should be sleek(E)
 <p>
-L
+The product should automatically do as many tasks as possible(L)
 <p>
-E
+The product’s opening should be wide(E)
 <p>
-L
+The product should be priced as low as possible(L)
 <p>
-E
+The product should have a long battery life(E)
 <p>
-L
+The product should allow the user to correct basic mistakes(L)
 <p>
-L
+The product should provide illumination(L)
 <p>
-E
+The product’s sensors should be sensitive enough to properly detect what they are looking for(E)
 <p>
-E
+The product’s sensors should work consistently(E)
 <p>
-L
+The product should be power efficient(L)
 <p>
-L
+The product should last for as long as possible(L)
 <p>
-E
+The product should be able to ship without damage(E)
 <p>
-E
+The product should be able to perform its functions reliably.(E)
 <p>
-E
+The product should be sized properly for its function(E)
 <p>
-E
+The sensors for the product should function reliably(E)
 <p>
-E
+The product should promptly respond to the user(E)
 <p>
-E
+The product should have its mechanisms work reliably(L)
 <p>
-L
+The product should not have flimsy components(E)
 <p>
-E
-   </td>
-   <td>The product should be sleek
-<p>
-The product should automatically do as many tasks as possible
-<p>
-The product’s opening should be wide
-<p>
-The product should be priced as low as possible
-<p>
-The product should have a long battery life
-<p>
-The product should allow the user to correct basic mistakes
-<p>
-The product should provide illumination
-<p>
-The product’s sensors should be sensitive enough to properly detect what they are looking for
-<p>
-The product’s sensors should work consistently
-<p>
-The product should be power efficient
-<p>
-The product should last for as long as possible
-<p>
-The product should be able to ship without damage
-<p>
-The product should be able to perform its functions reliably.
-<p>
-The product should be sized properly for its function
-<p>
-The sensors for the product should function reliably
-<p>
-The product should promptly respond to the user
-<p>
-The product should have its mechanisms work reliably
-<p>
-The product should not have flimsy components
-<p>
-The product should have easily replaceable and cheap internals, if they need to be replaced at all. 
+The product should have easily replaceable and cheap internals, if they need to be replaced at all. (E)
    </td>
   </tr>
   <tr>
@@ -331,10 +225,6 @@ The product should have easily replaceable and cheap internals, if they need to 
    </td>
    <td><a href="https://www.airdeertech.com/products/self-sealing-smart-trash-can-a1">https://www.airdeertech.com/products/self-sealing-smart-trash-can-a1</a> 
 <p>
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -375,61 +265,33 @@ Negative:
 <p>
 “I like the product, it is very convenient. Keeps odors out. I purchased two and one stopped working. I can still use if i push the button to open and again to close.”
    </td>
-   <td>L
+   <td>This product's function is complete.(L)
 <p>
-E
+Both battery and wired power.(E)
 <p>
-E
+Could be taller. (E)
 <p>
-E
+Good for older customers. (E)
 <p>
-E
+Not a complete necessity.(L) 
 <p>
-L
+Function effectively. (E)
 <p>
-E
+Without air trapping. (E)
 <p>
-E
+Pricey(E)
 <p>
-E
+Is loud somewhere in the process. (E) 
 <p>
-E
+Not charging.(L)
 <p>
-L
+Not sealing or opening all the way. (E)
 <p>
-E
-<p>
-E
-<p>
-E
-   </td>
-   <td>This product's function is complete.
-<p>
-Both battery and wired power.
-<p>
-Could be taller. 
-<p>
-Good for older customers. 
-<p>
-Not a complete necessity. 
-<p>
-Function effectively. 
-<p>
-Without air trapping. 
-<p>
-Pricey
-<p>
-Is loud somewhere in the process.  
-<p>
-Not charging.
-<p>
-Not sealing or opening all the way. 
-<p>
-Not an obvious fix.
+Not an obvious fix.(E)
 <p>
  
 <p>
-Not working but halfway functional. 
+Not working but halfway functional(E). 
    </td>
   </tr>
   <tr>
@@ -439,10 +301,6 @@ CTIME Touchless Automatic Bathroom Trash Can with Lid - 3 Gallon Slim Motion Sen
    </td>
    <td><a href="https://www.amazon.com/CTIME-Automatic-Bathroom-Soft-Close-Expanding/dp/B0D3DRFYK4?crid=36LKC17VSCWRL&dib=eyJ2IjoiMSJ9.Opj3x0A6EJV4stjMAt1vvAyLHHUjZgk60-mntN0arI2CuTVQunzmKd3FbTz75H8JXZ5X9OMvm_Xl2Ei66PRfroTuvuD8z6qOvC9HTMbCtvhK_m8ma5KxyGt8sRK1_WsWB2F3bBweAADnZxwArtnJh6WAS4QpFBDdQF7oSNKFizxv1rCL9q746md5s4hQV6WeMxwXM4-p4CTnpwV5s-HOOmPV2q_8ROSA3zCi57kiO2lYuGiid21a1Gl1mFRTp0OcQDBBDFdy61Y_q-hA9L0QO7Bb7sn759jQ6mmOcNd2zLY.amKIErGRqtOBjgOlCJOqhStcSNc4divbNqT39GYM2LM&dib_tag=se&keywords=self+tying+trash+can&qid=1757990301&sprefix=self+tying+trs%2Caps%2C169&sr=8-17#averageCustomerReviewsAnchor">CTIME Touchless Automatic Bathroom Trash Can with Lid - 3 Gallon Slim Motion Sensor Garbage Can for Bedroom, Kitchen, Office - White (6" W x 11" L x 13" H)</a>
 <p>
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -469,57 +327,37 @@ Negative:
 <p>
 “Pure junk! The trash can did not even make it one month before the lid stop functioning. The plastic gears are very flimsy and all they do is click and make noise and never open. To make matters worse, The return window was not even one month so I'm stuck with this trash can. I guess I'll throw it in the real trash.”
    </td>
-   <td>E
+   <td>Product is small (E)
 <p>
-E
+Product has a motion sensor(E)
 <p>
-L
+Sensor is too sensitive(L)
 <p>
-L
+Product should be able to hold more content(L)
 <p>
-E
+Installing new trash bags is tricky. (E)
 <p>
-E
+The products lid works as intended(E)
 <p>
-E
+Motion sensors are easy to use(E)
 <p>
-E
+The product shouldn’t be toos small(E)
 <p>
-E
+The product does not receive power(E)
 <p>
-E
-   </td>
-   <td>Product is small 
+The product is good enough to  buy a second(E)
 <p>
-Product has a motion sensor
+The products hinge/servomotor does not work properly(E)
 <p>
-Sensor is too sensitive
+The products durability was way less than whats anticipated(E)
 <p>
-Product should be able to hold more content
+The product is not worth the price(E)
 <p>
-Installing new trash bags is tricky. 
+Flimsy build and plastic pieces(E)
 <p>
-The products lid works as intended
+Should not make too much noise (L)
 <p>
-Motion sensors are easy to use and have no problems
-<p>
-The product is small
-<p>
-The product does not receive power
-<p>
-The product is good enough to  buy a second
-<p>
-The products hinge/servomotor does not work properly
-<p>
-The products durability was way less than whats anticipated
-<p>
-The product is not worth the price
-<p>
-Flimsy build and plastic pieces
-<p>
-Noise
-<p>
-The product doesn’t open.
+The product doesn’t open.(E)
    </td>
   </tr>
   <tr>
@@ -533,10 +371,6 @@ Nine Stars Motion Sensor Automatic Trash Can, 21-Gallon Stainless Steel, Motion 
 <p>
 V price and stuff
 <p>
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -575,49 +409,47 @@ i typically wouldnt spend more than $20 on a garage can but I thought I would gi
 <p>
 Had this less than three weeks when the battery department started to come loose. Batteries keep slipping down so it won't work. Have to fix batteries. Now the can is malfunctioning it open and closes constantly and it's so annoying. And it runs the batteries down. Struggles
    </td>
-   <td>
-   </td>
-   <td>The product should appear modern
+   <td>The product should appear modern(E)
 <p>
-The product should have a manual backup
+The product should have a manual backup(L)
 <p>
-The product should use convenient and cheap methods of powering itself
+The product should use convenient and cheap methods of powering itself(E)
 <p>
-The product should reliably move through its full range of motion
+The product should reliably move through its full range of motion(E)
 <p>
-The product should be able to easily be repaired or have parts replaced
+The product should be able to easily be repaired or have parts replaced(L)
 <p>
-The product should be easy to troubleshoot
+The product should be easy to troubleshoot(L)
 <p>
-The product should not require strong technical knowledge to use
+The product should not require strong technical knowledge to use(L)
 <p>
-The product should be made at a comfortable height
+The product should be made at a comfortable height(E)
 <p>
-The product should be able to be hands-free
+The product should be able to be hands-free(E)
 <p>
-The product should be safe from pets
+The product should be safe from pets(E)
 <p>
-The product should be safe for animals or children that are around it
+The product should be safe for animals or children that are around it(E)
 <p>
-The product should be able to handle full or overfull capacity
+The product should be able to handle full or overfull capacity(E)
 <p>
-The product should have a way to bypass a malfunctioning sensor
+The product should have a way to bypass a malfunctioning sensor(E)
 <p>
-The product should be able to be conveniently repowered
+The product should be able to be conveniently repowered(E)
 <p>
-The product should work reliably for a long time
+The product should work reliably for a long time(E)
 <p>
-The product should be able to be fixed easily
+The product should be able to be fixed easily(L)
 <p>
-The product should be as cheap as possible.
+The product should be as cheap as possible.(E)
 <p>
-The documentation for the product should be thorough
+The documentation for the product should be thorough(L)
 <p>
-The product should be tested and have common issues fixed before shipping
+The product should be tested and have common issues fixed before shipping(L)
 <p>
-The casings for internals of the product should be sturdy
+The casings for internals of the product should be sturdy(E)
 <p>
-The product should not waste power
+The product should not waste power(E)
    </td>
   </tr>
 </table>
