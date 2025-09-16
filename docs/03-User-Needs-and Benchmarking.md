@@ -37,7 +37,10 @@ The product description states 13 gallon however, the actual size is much smalle
 <p>
 NOT WORTH THE PRICE. I never ordered a trash bin before so I wasn't entirely sure what to expect. I assumed that a 13 gallon was the average size for kitchen trash bins but this just seems extremely small to me. I made this purchase knowing that it was motion sensing and odorless technology so I expected it to either be battery operated or plug - in. It is plug in... But you have to purchase the AC adapter separately as well as everything else that makes it "techy". So for the price I paid I just received a regular trash bin that I have to manually open and deal with smells unless I buy the rest of the kit. I'll be returning this as soon as possible and I will purchase a regular trash bin instead for much cheaper. Lesson learned.
    </td>
-   <td>The product is easy to recharge(L)
+   <td>
+<p>
+The product is easy to recharge(L)
+<p>
 <p>
 The Product uses D Batteries(E)
 <p>
